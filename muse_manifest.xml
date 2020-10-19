@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sunshinevendetta.live" resolutions="1x" timestamp="1603101855609">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sunshinevendetta.live" resolutions="1x" timestamp="1603103285427">
   <folder name="css">
     <file name="site_global.css" crc="3875459551"/>
-    <file name="index.css" crc="205183683" ref="index"/>
-    <file name="nomq_index.css" crc="3869227766" ref="index"/>
+    <file name="index.css" crc="483686876" ref="index"/>
+    <file name="nomq_index.css" crc="496153609" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
   </folder>
   <folder name="fonts">
@@ -207,6 +207,7 @@
     <file name="dibset-u2718-fr4.jpg" crc="4098443747" ref="index"/>
     <file name="white-u27216.png" crc="4216523946" ref="index"/>
     <file name="white-u2721-r6.png" crc="4107643456" ref="index"/>
+    <file name="home-favicon.ico" crc="3987755278" ref="index"/>
   </folder>
-  <file name="index.html" crc="4191804011" seo="true" mt="1603101826147" redirect="true"/>
+  <file name="index.html" crc="4157174898" seo="true" mt="1603103189154" redirect="true"/>
 </manifest>
