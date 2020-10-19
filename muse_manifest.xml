@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sunshinevendetta.live" resolutions="1x" timestamp="1603108567578">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sunshinevendetta.live" resolutions="1x" timestamp="1603145070171">
   <folder name="css">
     <file name="site_global.css" crc="3875459551"/>
-    <file name="index.css" crc="3987848128" ref="index"/>
-    <file name="nomq_index.css" crc="396288107" ref="index"/>
+    <file name="index.css" crc="3947737371" ref="index"/>
+    <file name="nomq_index.css" crc="252425430" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
   </folder>
   <folder name="fonts">
@@ -157,24 +157,24 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="white-u2209-fr.png" crc="80738095" ref="index"/>
-    <file name="u2721.png" crc="525666538" ref="index"/>
+    <file name="u2721.png" crc="234720451" ref="index"/>
     <file name="u2721-r.png" crc="446822494" ref="index"/>
-    <file name="white-u2957.png" crc="3829591060" ref="index"/>
-    <file name="white-u2957-r.png" crc="64337677" ref="index"/>
-    <file name="u27212.png" crc="525666538" ref="index"/>
+    <file name="white-u2957.png" crc="439028987" ref="index"/>
+    <file name="white-u2957-r.png" crc="158293737" ref="index"/>
+    <file name="u27212.png" crc="234720451" ref="index"/>
     <file name="u2721-r2.png" crc="446822494" ref="index"/>
-    <file name="white-u29572.png" crc="3829591060" ref="index"/>
-    <file name="white-u2957-r2.png" crc="64337677" ref="index"/>
-    <file name="u27213.png" crc="525666538" ref="index"/>
+    <file name="white-u29572.png" crc="439028987" ref="index"/>
+    <file name="white-u2957-r2.png" crc="158293737" ref="index"/>
+    <file name="u27213.png" crc="234720451" ref="index"/>
     <file name="u2721-r3.png" crc="446822494" ref="index"/>
-    <file name="white-u29573.png" crc="3829591060" ref="index"/>
-    <file name="white-u2957-r3.png" crc="64337677" ref="index"/>
+    <file name="white-u29573.png" crc="439028987" ref="index"/>
+    <file name="white-u2957-r3.png" crc="158293737" ref="index"/>
     <file name="dibset-u2131-fr2.jpg" crc="3832222945" ref="index"/>
     <file name="white-u2209-fr2.png" crc="106971491" ref="index"/>
-    <file name="u27214.png" crc="525666538" ref="index"/>
+    <file name="u27214.png" crc="234720451" ref="index"/>
     <file name="u2721-r4.png" crc="446822494" ref="index"/>
-    <file name="white-u29574.png" crc="3829591060" ref="index"/>
-    <file name="white-u2957-r4.png" crc="64337677" ref="index"/>
+    <file name="white-u29574.png" crc="439028987" ref="index"/>
+    <file name="white-u2957-r4.png" crc="158293737" ref="index"/>
     <file name="cover-u2172-fr5.jpg" crc="4003255462" ref="index"/>
     <file name="dibset-u2131-fr3.jpg" crc="4201936463" ref="index"/>
     <file name="cover-u2177-fr.jpg" crc="241717582" ref="index"/>
@@ -182,7 +182,7 @@
     <file name="6660-u2193-fr.jpg" crc="426140211" ref="index"/>
     <file name="d9847d2e50e415ca666d4ff0980fb4f8-u2201-fr.jpg" crc="4130156219" ref="index"/>
     <file name="white-u2209-fr3.png" crc="358891977" ref="index"/>
-    <file name="u27215.png" crc="525666538" ref="index"/>
+    <file name="u27215.png" crc="234720451" ref="index"/>
     <file name="u2721-r5.png" crc="446822494" ref="index"/>
     <file name="cover-u2172-fr6.jpg" crc="155994188" ref="index"/>
     <file name="cover-u2172-r-fr6.png" crc="4129470171" ref="index"/>
@@ -192,8 +192,8 @@
     <file name="6660-u2193-fr2.jpg" crc="47672636" ref="index"/>
     <file name="d9847d2e50e415ca666d4ff0980fb4f8-u2201-fr2.jpg" crc="465808628" ref="index"/>
     <file name="white-u2209-fr4.png" crc="274662987" ref="index"/>
-    <file name="u27216.png" crc="525666538" ref="index"/>
+    <file name="u27216.png" crc="234720451" ref="index"/>
     <file name="u2721-r6.png" crc="446822494" ref="index"/>
   </folder>
-  <file name="index.html" crc="3935511508" seo="true" mt="1603108548195" redirect="true"/>
+  <file name="index.html" crc="193579115" seo="true" mt="1603145032038" redirect="true"/>
 </manifest>
