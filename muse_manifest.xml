@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sunshinevendetta.live" resolutions="1x" timestamp="1603106362867">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sunshinevendetta.live" resolutions="1x" timestamp="1603106584306">
   <folder name="css">
     <file name="site_global.css" crc="3875459551"/>
     <file name="index.css" crc="512961246" ref="index"/>
@@ -195,5 +195,5 @@
     <file name="u27216.png" crc="525666538" ref="index"/>
     <file name="u2721-r6.png" crc="446822494" ref="index"/>
   </folder>
-  <file name="index.html" crc="447866551" seo="true" mt="1603106348970" redirect="true"/>
+  <file name="index.html" crc="3936334687" seo="true" mt="1603106566139" redirect="true"/>
 </manifest>
