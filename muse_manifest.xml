@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sunshinevendetta.live" resolutions="1x" timestamp="1603103285427">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sunshinevendetta.live" resolutions="1x" timestamp="1603106362867">
   <folder name="css">
     <file name="site_global.css" crc="3875459551"/>
-    <file name="index.css" crc="483686876" ref="index"/>
-    <file name="nomq_index.css" crc="496153609" ref="index"/>
+    <file name="index.css" crc="512961246" ref="index"/>
+    <file name="nomq_index.css" crc="120899984" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
   </folder>
   <folder name="fonts">
@@ -55,16 +55,22 @@
     </file>
     <file name="dibset-u2133-fr.jpg" crc="186859742" ref="index"/>
     <file name="dibset-u2133-r-fr.png" crc="207107148" ref="index"/>
-    <file name="cover.jpg" crc="4192496166" ref="index">
+    <file name="cover.jpg" crc="421997223" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="cover-u2172-r-fr.png" crc="402907643" ref="index"/>
-    <file name="rave weapons.jpg" crc="497283188" ref="index">
+    <file name="cover-u2172-r-fr.png" crc="350889120" ref="index"/>
+    <file name="rave weapons.jpg" crc="82023299" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="rave weapons-u2181-r-fr.png" crc="3988238906" ref="index"/>
+    <file name="rave weapons-u2181-r-fr.png" crc="3778468454" ref="index"/>
     <file name="6661-u2189-fr.jpg" crc="3767525744" ref="index"/>
     <file name="6661-u2189-r-fr.png" crc="4071967293" ref="index"/>
     <file name="edits.jpg" crc="336135204" ref="index">
@@ -77,49 +83,9 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="sunshine_vendetta_symbol-u2205-r-fr.png" crc="482516731" ref="index"/>
-    <file name="photo_01b.jpg" crc="3768380012" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="photo_02b.jpg" crc="3775309454" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="photo_03b.jpg" crc="4023513609" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="photo_04b.jpg" crc="367563518" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="photo_05b.jpg" crc="304873194" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="photo_06b.jpg" crc="4222950004" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="white.png" crc="301271326" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="white-u2721.png" crc="4216523946" ref="index"/>
-    <file name="white-u2721-r.png" crc="4107643456" ref="index"/>
-    <file name="u2957.png" crc="316898407" ref="index"/>
-    <file name="u2957-r.png" crc="429133608" ref="index"/>
     <file name="menu_01.png" crc="4246148103" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -130,16 +96,12 @@
     <file name="dibset-u2133-r-fr2.png" crc="7902125" ref="index"/>
     <file name="6661-u2189-fr2.jpg" crc="3825361874" ref="index"/>
     <file name="6661-u2189-r-fr2.png" crc="534304660" ref="index"/>
-    <file name="white-u27212.png" crc="4216523946" ref="index"/>
-    <file name="white-u2721-r2.png" crc="4107643456" ref="index"/>
-    <file name="u29572.png" crc="316898407" ref="index"/>
-    <file name="u2957-r2.png" crc="429133608" ref="index"/>
     <file name="dibset-u2133-fr3.jpg" crc="3806792569" ref="index"/>
     <file name="dibset-u2133-r-fr3.png" crc="3816984469" ref="index"/>
-    <file name="cover-u2172-fr.jpg" crc="233916773" ref="index"/>
-    <file name="cover-u2172-r-fr2.png" crc="418601919" ref="index"/>
-    <file name="rave weapons-u2181-fr.jpg" crc="244948543" ref="index"/>
-    <file name="rave weapons-u2181-r-fr2.png" crc="334413630" ref="index"/>
+    <file name="cover-u2172-fr.jpg" crc="255489564" ref="index"/>
+    <file name="cover-u2172-r-fr2.png" crc="302098801" ref="index"/>
+    <file name="rave weapons-u2181-fr.jpg" crc="4046745805" ref="index"/>
+    <file name="rave weapons-u2181-r-fr2.png" crc="22136667" ref="index"/>
     <file name="6661-u2189-fr3.jpg" crc="4108065465" ref="index"/>
     <file name="6661-u2189-r-fr3.png" crc="4145517875" ref="index"/>
     <file name="edits-u2197-fr.jpg" crc="88980218" ref="index"/>
@@ -147,16 +109,12 @@
     <file name="sunshine_vendetta_symbol-u2205-fr.jpg" crc="518596177" ref="index"/>
     <file name="sunshine_vendetta_symbol-u2205-r-fr2.png" crc="208227" ref="index"/>
     <file name="dibset-u2718-fr.jpg" crc="4110023113" ref="index"/>
-    <file name="white-u27213.png" crc="4216523946" ref="index"/>
-    <file name="white-u2721-r3.png" crc="4107643456" ref="index"/>
-    <file name="u29573.png" crc="316898407" ref="index"/>
-    <file name="u2957-r3.png" crc="429133608" ref="index"/>
     <file name="dibset-u2133-fr4.jpg" crc="3994632857" ref="index"/>
     <file name="dibset-u2133-r-fr4.png" crc="4030227246" ref="index"/>
-    <file name="cover-u2172-fr2.jpg" crc="143825115" ref="index"/>
-    <file name="cover-u2172-r-fr3.png" crc="13904366" ref="index"/>
-    <file name="rave weapons-u2181-fr2.jpg" crc="132441832" ref="index"/>
-    <file name="rave weapons-u2181-r-fr3.png" crc="4220835178" ref="index"/>
+    <file name="cover-u2172-fr2.jpg" crc="3758946336" ref="index"/>
+    <file name="cover-u2172-r-fr3.png" crc="337414686" ref="index"/>
+    <file name="rave weapons-u2181-fr2.jpg" crc="4035154595" ref="index"/>
+    <file name="rave weapons-u2181-r-fr3.png" crc="4255299790" ref="index"/>
     <file name="6661-u2189-fr4.jpg" crc="300902794" ref="index"/>
     <file name="6661-u2189-r-fr4.png" crc="52850374" ref="index"/>
     <file name="edits-u2197-fr2.jpg" crc="236463109" ref="index"/>
@@ -164,50 +122,78 @@
     <file name="sunshine_vendetta_symbol-u2205-fr2.jpg" crc="4122284565" ref="index"/>
     <file name="sunshine_vendetta_symbol-u2205-r-fr3.png" crc="3945394976" ref="index"/>
     <file name="dibset-u2718-fr2.jpg" crc="489669336" ref="index"/>
-    <file name="white-u27214.png" crc="4216523946" ref="index"/>
-    <file name="white-u2721-r4.png" crc="4107643456" ref="index"/>
-    <file name="u29574.png" crc="316898407" ref="index"/>
-    <file name="u2957-r4.png" crc="429133608" ref="index"/>
     <file name="dibset-u2133-fr5.jpg" crc="389407549" ref="index"/>
     <file name="dibset-u2133-r-fr5.png" crc="4262330497" ref="index"/>
-    <file name="cover-u2172-fr3.jpg" crc="156889549" ref="index"/>
-    <file name="cover-u2172-r-fr4.png" crc="367581330" ref="index"/>
-    <file name="rave weapons-u2181-fr3.jpg" crc="36309013" ref="index"/>
-    <file name="rave weapons-u2181-r-fr4.png" crc="3977888633" ref="index"/>
+    <file name="cover-u2172-fr3.jpg" crc="4061751271" ref="index"/>
+    <file name="cover-u2172-r-fr4.png" crc="361673398" ref="index"/>
+    <file name="rave weapons-u2181-fr3.jpg" crc="405584005" ref="index"/>
+    <file name="rave weapons-u2181-r-fr4.png" crc="335644435" ref="index"/>
     <file name="6661-u2189-fr5.jpg" crc="221195192" ref="index"/>
     <file name="6661-u2189-r-fr5.png" crc="4201184301" ref="index"/>
     <file name="edits-u2197-fr3.jpg" crc="4147605627" ref="index"/>
     <file name="edits-u2197-r-fr4.png" crc="3980487688" ref="index"/>
     <file name="sunshine_vendetta_symbol-u2205-fr3.jpg" crc="3762071195" ref="index"/>
     <file name="sunshine_vendetta_symbol-u2205-r-fr4.png" crc="4036925309" ref="index"/>
-    <file name="photo_01b-u2131-fr.jpg" crc="3996703891" ref="index"/>
-    <file name="photo_02b-u2177-fr.jpg" crc="176496107" ref="index"/>
-    <file name="photo_03b-u2185-fr.jpg" crc="3778882247" ref="index"/>
-    <file name="photo_04b-u2193-fr.jpg" crc="396979018" ref="index"/>
-    <file name="photo_05b-u2201-fr.jpg" crc="4440022" ref="index"/>
-    <file name="photo_06b-u2209-fr.jpg" crc="3951189235" ref="index"/>
     <file name="dibset-u2718-fr3.jpg" crc="3770571184" ref="index"/>
-    <file name="white-u27215.png" crc="4216523946" ref="index"/>
-    <file name="white-u2721-r5.png" crc="4107643456" ref="index"/>
     <file name="glitch-u1995-fr.jpg" crc="298683125" ref="index"/>
-    <file name="cover-u2172-fr4.jpg" crc="192162944" ref="index"/>
-    <file name="cover-u2172-r-fr5.png" crc="434026294" ref="index"/>
+    <file name="cover-u2172-fr4.jpg" crc="252606978" ref="index"/>
+    <file name="cover-u2172-r-fr5.png" crc="38244610" ref="index"/>
     <file name="6661-u2189-fr6.jpg" crc="4117195412" ref="index"/>
     <file name="6661-u2189-r-fr6.png" crc="26322537" ref="index"/>
     <file name="edits-u2197-fr4.jpg" crc="71089023" ref="index"/>
     <file name="edits-u2197-r-fr5.png" crc="3814297312" ref="index"/>
     <file name="sunshine_vendetta_symbol-u2205-fr4.jpg" crc="4013284723" ref="index"/>
     <file name="sunshine_vendetta_symbol-u2205-r-fr5.png" crc="353400859" ref="index"/>
-    <file name="photo_01b-u2131-fr2.jpg" crc="347268599" ref="index"/>
-    <file name="photo_02b-u2177-fr2.jpg" crc="371203252" ref="index"/>
-    <file name="photo_03b-u2185-fr2.jpg" crc="276380490" ref="index"/>
-    <file name="photo_04b-u2193-fr2.jpg" crc="434535054" ref="index"/>
-    <file name="photo_05b-u2201-fr2.jpg" crc="3959284052" ref="index"/>
-    <file name="photo_06b-u2209-fr2.jpg" crc="3850200773" ref="index"/>
     <file name="dibset-u2718-fr4.jpg" crc="4098443747" ref="index"/>
-    <file name="white-u27216.png" crc="4216523946" ref="index"/>
-    <file name="white-u2721-r6.png" crc="4107643456" ref="index"/>
     <file name="home-favicon.ico" crc="3987755278" ref="index"/>
+    <file name="dibset-u2131-fr.jpg" crc="4135042276" ref="index"/>
+    <file name="6660.jpg" crc="3862815614" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="d9847d2e50e415ca666d4ff0980fb4f8.jpg" crc="4170679799" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="white-u2209-fr.png" crc="80738095" ref="index"/>
+    <file name="u2721.png" crc="525666538" ref="index"/>
+    <file name="u2721-r.png" crc="446822494" ref="index"/>
+    <file name="white-u2957.png" crc="3829591060" ref="index"/>
+    <file name="white-u2957-r.png" crc="64337677" ref="index"/>
+    <file name="u27212.png" crc="525666538" ref="index"/>
+    <file name="u2721-r2.png" crc="446822494" ref="index"/>
+    <file name="white-u29572.png" crc="3829591060" ref="index"/>
+    <file name="white-u2957-r2.png" crc="64337677" ref="index"/>
+    <file name="u27213.png" crc="525666538" ref="index"/>
+    <file name="u2721-r3.png" crc="446822494" ref="index"/>
+    <file name="white-u29573.png" crc="3829591060" ref="index"/>
+    <file name="white-u2957-r3.png" crc="64337677" ref="index"/>
+    <file name="dibset-u2131-fr2.jpg" crc="3832222945" ref="index"/>
+    <file name="white-u2209-fr2.png" crc="106971491" ref="index"/>
+    <file name="u27214.png" crc="525666538" ref="index"/>
+    <file name="u2721-r4.png" crc="446822494" ref="index"/>
+    <file name="white-u29574.png" crc="3829591060" ref="index"/>
+    <file name="white-u2957-r4.png" crc="64337677" ref="index"/>
+    <file name="cover-u2172-fr5.jpg" crc="4003255462" ref="index"/>
+    <file name="dibset-u2131-fr3.jpg" crc="4201936463" ref="index"/>
+    <file name="cover-u2177-fr.jpg" crc="241717582" ref="index"/>
+    <file name="rave weapons-u2185-fr.jpg" crc="92755695" ref="index"/>
+    <file name="6660-u2193-fr.jpg" crc="426140211" ref="index"/>
+    <file name="d9847d2e50e415ca666d4ff0980fb4f8-u2201-fr.jpg" crc="4130156219" ref="index"/>
+    <file name="white-u2209-fr3.png" crc="358891977" ref="index"/>
+    <file name="u27215.png" crc="525666538" ref="index"/>
+    <file name="u2721-r5.png" crc="446822494" ref="index"/>
+    <file name="cover-u2172-fr6.jpg" crc="155994188" ref="index"/>
+    <file name="cover-u2172-r-fr6.png" crc="4129470171" ref="index"/>
+    <file name="dibset-u2131-fr4.jpg" crc="427124923" ref="index"/>
+    <file name="cover-u2177-fr2.jpg" crc="4098827718" ref="index"/>
+    <file name="rave weapons-u2185-fr2.jpg" crc="4232035031" ref="index"/>
+    <file name="6660-u2193-fr2.jpg" crc="47672636" ref="index"/>
+    <file name="d9847d2e50e415ca666d4ff0980fb4f8-u2201-fr2.jpg" crc="465808628" ref="index"/>
+    <file name="white-u2209-fr4.png" crc="274662987" ref="index"/>
+    <file name="u27216.png" crc="525666538" ref="index"/>
+    <file name="u2721-r6.png" crc="446822494" ref="index"/>
   </folder>
-  <file name="index.html" crc="4157174898" seo="true" mt="1603103189154" redirect="true"/>
+  <file name="index.html" crc="447866551" seo="true" mt="1603106348970" redirect="true"/>
 </manifest>
