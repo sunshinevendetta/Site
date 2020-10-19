@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sunshinevendetta.live" resolutions="1x" timestamp="1603106957702">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sunshinevendetta.live" resolutions="1x" timestamp="1603107462118">
   <folder name="css">
     <file name="site_global.css" crc="3875459551"/>
-    <file name="index.css" crc="4059530068" ref="index"/>
-    <file name="nomq_index.css" crc="222674061" ref="index"/>
+    <file name="index.css" crc="114942669" ref="index"/>
+    <file name="nomq_index.css" crc="273766291" ref="index"/>
     <file name="iefonts_index.css" crc="3824530138" ref="index"/>
   </folder>
   <folder name="fonts">
@@ -195,5 +195,5 @@
     <file name="u27216.png" crc="525666538" ref="index"/>
     <file name="u2721-r6.png" crc="446822494" ref="index"/>
   </folder>
-  <file name="index.html" crc="87714263" seo="true" mt="1603106942837" redirect="true"/>
+  <file name="index.html" crc="522555745" seo="true" mt="1603107443163" redirect="true"/>
 </manifest>
